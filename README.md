@@ -1,0 +1,1 @@
+# Taylor-series-two-variant-problem
